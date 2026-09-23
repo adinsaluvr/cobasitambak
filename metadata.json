@@ -1,0 +1,6 @@
+{
+  "name": "SI TAMBAK - Petualangan Sains di Ekosistem Tambak Sidoarjo",
+  "description": "Game petualangan edukasi sains interaktif ekosistem tambak Sidoarjo untuk murid SD kelas V bersama Tambi si Petambak Cilik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
